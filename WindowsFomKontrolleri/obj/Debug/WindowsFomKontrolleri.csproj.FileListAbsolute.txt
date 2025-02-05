@@ -1,0 +1,12 @@
+C:\Users\Alp\source\repos\WindowsFomKontrolleri\WindowsFomKontrolleri\bin\Debug\WindowsFomKontrolleri.exe.config
+C:\Users\Alp\source\repos\WindowsFomKontrolleri\WindowsFomKontrolleri\bin\Debug\WindowsFomKontrolleri.exe
+C:\Users\Alp\source\repos\WindowsFomKontrolleri\WindowsFomKontrolleri\bin\Debug\WindowsFomKontrolleri.pdb
+C:\Users\Alp\source\repos\WindowsFomKontrolleri\WindowsFomKontrolleri\obj\Debug\WindowsFomKontrolleri.csproj.AssemblyReference.cache
+C:\Users\Alp\source\repos\WindowsFomKontrolleri\WindowsFomKontrolleri\obj\Debug\WindowsFomKontrolleri.Properties.Resources.resources
+C:\Users\Alp\source\repos\WindowsFomKontrolleri\WindowsFomKontrolleri\obj\Debug\WindowsFomKontrolleri.csproj.GenerateResource.cache
+C:\Users\Alp\source\repos\WindowsFomKontrolleri\WindowsFomKontrolleri\obj\Debug\WindowsFomKontrolleri.csproj.CoreCompileInputs.cache
+C:\Users\Alp\source\repos\WindowsFomKontrolleri\WindowsFomKontrolleri\obj\Debug\WindowsFomKontrolleri.exe
+C:\Users\Alp\source\repos\WindowsFomKontrolleri\WindowsFomKontrolleri\obj\Debug\WindowsFomKontrolleri.pdb
+C:\Users\Alp\source\repos\WindowsFomKontrolleri\WindowsFomKontrolleri\obj\Debug\WindowsFomKontrolleri.Form1.resources
+C:\Users\Alp\source\repos\WindowsFomKontrolleri\WindowsFomKontrolleri\obj\Debug\WindowsFomKontrolleri.LabelKontrolu.resources
+C:\Users\Alp\source\repos\WindowsFomKontrolleri\WindowsFomKontrolleri\obj\Debug\WindowsFomKontrolleri.TextBoxKontrolu.resources

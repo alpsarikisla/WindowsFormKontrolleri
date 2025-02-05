@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alp\\source\\repos\\WindowsFomKontrolleri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B83A807-E0A7-489E-B772-221C96748256}|WindowsFomKontrolleri\\WindowsFomKontrolleri.csproj|c:\\users\\alp\\source\\repos\\windowsfomkontrolleri\\windowsfomkontrolleri\\textboxkontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B83A807-E0A7-489E-B772-221C96748256}|WindowsFomKontrolleri\\WindowsFomKontrolleri.csproj|solutionrelative:windowsfomkontrolleri\\textboxkontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B83A807-E0A7-489E-B772-221C96748256}|WindowsFomKontrolleri\\WindowsFomKontrolleri.csproj|C:\\Users\\Alp\\source\\repos\\WindowsFomKontrolleri\\windowsfomkontrolleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B83A807-E0A7-489E-B772-221C96748256}|WindowsFomKontrolleri\\WindowsFomKontrolleri.csproj|solutionrelative:windowsfomkontrolleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B83A807-E0A7-489E-B772-221C96748256}|WindowsFomKontrolleri\\WindowsFomKontrolleri.csproj|C:\\Users\\Alp\\source\\repos\\WindowsFomKontrolleri\\windowsfomkontrolleri\\labelkontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B83A807-E0A7-489E-B772-221C96748256}|WindowsFomKontrolleri\\WindowsFomKontrolleri.csproj|solutionrelative:windowsfomkontrolleri\\labelkontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B83A807-E0A7-489E-B772-221C96748256}|WindowsFomKontrolleri\\WindowsFomKontrolleri.csproj|C:\\Users\\Alp\\source\\repos\\WindowsFomKontrolleri\\windowsfomkontrolleri\\labelkontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B83A807-E0A7-489E-B772-221C96748256}|WindowsFomKontrolleri\\WindowsFomKontrolleri.csproj|solutionrelative:windowsfomkontrolleri\\labelkontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B83A807-E0A7-489E-B772-221C96748256}|WindowsFomKontrolleri\\WindowsFomKontrolleri.csproj|C:\\Users\\Alp\\source\\repos\\WindowsFomKontrolleri\\windowsfomkontrolleri\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B83A807-E0A7-489E-B772-221C96748256}|WindowsFomKontrolleri\\WindowsFomKontrolleri.csproj|solutionrelative:windowsfomkontrolleri\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextBoxKontrolu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alp\\source\\repos\\WindowsFomKontrolleri\\WindowsFomKontrolleri\\TextBoxKontrolu.cs",
+              "RelativeDocumentMoniker": "WindowsFomKontrolleri\\TextBoxKontrolu.cs",
+              "ToolTip": "C:\\Users\\Alp\\source\\repos\\WindowsFomKontrolleri\\WindowsFomKontrolleri\\TextBoxKontrolu.cs [Design]",
+              "RelativeToolTip": "WindowsFomKontrolleri\\TextBoxKontrolu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:36:32.078Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LabelKontrolu.cs",
+              "DocumentMoniker": "C:\\Users\\Alp\\source\\repos\\WindowsFomKontrolleri\\WindowsFomKontrolleri\\LabelKontrolu.cs",
+              "RelativeDocumentMoniker": "WindowsFomKontrolleri\\LabelKontrolu.cs",
+              "ToolTip": "C:\\Users\\Alp\\source\\repos\\WindowsFomKontrolleri\\WindowsFomKontrolleri\\LabelKontrolu.cs",
+              "RelativeToolTip": "WindowsFomKontrolleri\\LabelKontrolu.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:05:49.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alp\\source\\repos\\WindowsFomKontrolleri\\WindowsFomKontrolleri\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFomKontrolleri\\Program.cs",
+              "ToolTip": "C:\\Users\\Alp\\source\\repos\\WindowsFomKontrolleri\\WindowsFomKontrolleri\\Program.cs",
+              "RelativeToolTip": "WindowsFomKontrolleri\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:52:45.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LabelKontrolu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alp\\source\\repos\\WindowsFomKontrolleri\\WindowsFomKontrolleri\\LabelKontrolu.cs",
+              "RelativeDocumentMoniker": "WindowsFomKontrolleri\\LabelKontrolu.cs",
+              "ToolTip": "C:\\Users\\Alp\\source\\repos\\WindowsFomKontrolleri\\WindowsFomKontrolleri\\LabelKontrolu.cs [Design]",
+              "RelativeToolTip": "WindowsFomKontrolleri\\LabelKontrolu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:50:08.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alp\\source\\repos\\WindowsFomKontrolleri\\WindowsFomKontrolleri\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFomKontrolleri\\Form1.cs",
+              "ToolTip": "C:\\Users\\Alp\\source\\repos\\WindowsFomKontrolleri\\WindowsFomKontrolleri\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFomKontrolleri\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:41:59.973Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
