@@ -26,3 +26,5 @@ C:\Users\Alp\Documents\GitHub\WindowsFormKontrolleri\WindowsFomKontrolleri\obj\D
 C:\Users\Alp\Documents\GitHub\WindowsFormKontrolleri\WindowsFomKontrolleri\obj\Debug\WindowsFomKontrolleri.KurabiyeTiklayicisi.resources
 C:\Users\Alp\Documents\GitHub\WindowsFormKontrolleri\WindowsFomKontrolleri\obj\Debug\WindowsFomKontrolleri.CheckBoxRadioButtonGroupKontrolleri.resources
 C:\Users\Alp\Documents\GitHub\WindowsFormKontrolleri\WindowsFomKontrolleri\obj\Debug\WindowsFomKontrolleri.TarihKontrolleri.resources
+C:\Users\Alp\Documents\GitHub\WindowsFormKontrolleri\WindowsFomKontrolleri\obj\Debug\WindowsFomKontrolleri.ComboBoxKontrolu.resources
+C:\Users\Alp\Documents\GitHub\WindowsFormKontrolleri\WindowsFomKontrolleri\obj\Debug\WindowsFomKontrolleri.SehirIlceDataBound.resources
