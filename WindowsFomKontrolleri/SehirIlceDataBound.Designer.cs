@@ -54,6 +54,7 @@
             this.cb_sehir.Name = "cb_sehir";
             this.cb_sehir.Size = new System.Drawing.Size(364, 37);
             this.cb_sehir.TabIndex = 1;
+            this.cb_sehir.SelectedIndexChanged += new System.EventHandler(this.cb_sehir_SelectedIndexChanged);
             // 
             // label2
             // 

@@ -12,6 +12,7 @@ namespace WindowsFomKontrolleri
 {
     public partial class SehirIlceDataBound : Form
     {
+        bool sehirDoldu;
         public SehirIlceDataBound()
         {
             InitializeComponent();
@@ -22,6 +23,7 @@ namespace WindowsFomKontrolleri
             cb_sehir.DataSource = SehirDoldur();
             cb_sehir.DisplayMember = "Isim";
             cb_sehir.ValueMember = "ID";
+            sehirDoldu = true;
         }
 
         public List<Sehir> SehirDoldur()
@@ -1173,19 +1175,33 @@ namespace WindowsFomKontrolleri
         public List<Ilce> SeciliIlceDoldur(int sID)
         {
             List<Ilce> ilceler = IlceDoldur();
+            List<Ilce> sehirinIlceleri = new List<Ilce>();
             foreach (Ilce item in ilceler)
             {
                 if (item.SehirID == sID)
                 {
-                    ilceler.Add(item);
+                    sehirinIlceleri.Add(item);
                 }
             }
-            return ilceler;
+            return sehirinIlceleri;
         }
 
         private void btn_getir_Click(object sender, EventArgs e)
         {
+            Sehir secilenSehir = (Sehir)cb_sehir.SelectedItem;
+            Ilce secilenIlce = (Ilce)cb_Ilce.SelectedItem;
+            lbl_monitor.Text = secilenSehir.Isim + " - " + secilenIlce.Isim;
+        }
 
+        private void cb_sehir_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (sehirDoldu == true)
+            {
+                int sehirID = Convert.ToInt32(cb_sehir.SelectedValue);
+                cb_Ilce.DataSource = SeciliIlceDoldur(sehirID);
+                cb_Ilce.DisplayMember = "Isim";
+                cb_Ilce.ValueMember = "ID";
+            }
         }
     }
 }
